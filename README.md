@@ -9,7 +9,8 @@
   <img align="left" alt="Gabe Wilmoth's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-<br />
+<br/>
+<br/>
 
 Hi, I'm Gabe Wilmoth, a Software Engineer 🧑🏽‍💻 from North Carolina, currently, I'm a Software Engineer [@walmartlabs](https://github.com/walmartlabs), and a Former Student at The University of North Carolina at Greensboro. Beside's programming, I enjoy skiing ⛷, space 🧑🏽‍🚀, gaming and traveling.
 
