@@ -38,6 +38,8 @@ Hi, I'm Gabe Wilmoth, a Software Engineer 🧑🏽‍💻 from North Carolina, c
 
 ---
 
+*The Top Languages Card is not an exact depiction of my experience in said languages, rather just how much "code" there is in said type of file*
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=GabeWilmoth&show_icons=true&hide_border=true&count_private=true&hide=stars" />
 </a>
