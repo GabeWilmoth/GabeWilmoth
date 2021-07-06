@@ -19,7 +19,7 @@ Hi, I'm Gabe Wilmoth, a Software Engineer 🧑🏽‍💻 from North Carolina, c
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on a general moderation Discord Bot;
-- 🌱 I’m currently learning Scala and the Docker ecosystem; 
+- 🌱 I’m currently getting a Scala certification and researching reactive systems;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: gabewilmoth@gmail.com;
 - 📝[Resume](https://gabrielwilmoth.com/ResumeGabrielWilmoth.pdf)
